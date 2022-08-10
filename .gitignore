@@ -9,5 +9,5 @@ media
 .idea
 main.py
 venv
-
+*gunicorn.conf.py
 static
